@@ -1,0 +1,1480 @@
+{
+    "region": [
+        {
+            "code": "44",
+            "libelle": "Grand Est",
+            "registers": "3862920",
+            "abstention": "1008344",
+            "blankVote": "42255",
+            "spoiltBallot": "18647",
+            "politicians": [
+                {
+                    "gender": "W",
+                    "lastName": "ARTHAUD",
+                    "firstName": "Nathalie",
+                    "votes": "18655"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "ROUSSEL",
+                    "firstName": "Fabien",
+                    "votes": "47422"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "MACRON",
+                    "firstName": "Emmanuel",
+                    "votes": "762241"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "LASALLE",
+                    "firstName": "Jean",
+                    "votes": "77439"
+                },
+                {
+                    "gender": "W",
+                    "lastName": "LE PEN",
+                    "firstName": "Marine",
+                    "votes": "825196"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "ZEMMOUR",
+                    "firstName": "Éric",
+                    "votes": "200256"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "MÉLENCHON",
+                    "firstName": "Jean-Luc",
+                    "votes": "492408"
+                },
+                {
+                    "gender": "W",
+                    "lastName": "HIDALGO",
+                    "firstName": "Anne",
+                    "votes": "40030"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "JADOT",
+                    "firstName": "Yannick",
+                    "votes": "111953"
+                },
+                {
+                    "gender": "W",
+                    "lastName": "PÉCRESSE",
+                    "firstName": "Valérie",
+                    "votes": "120917"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "POUTOU",
+                    "firstName": "Philippe",
+                    "votes": "22241"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "DUPONT-AIGNAN",
+                    "firstName": "Nicolas",
+                    "votes": "74916"
+                }
+            ]
+        },
+        {
+            "code": "75",
+            "libelle": "Nouvelle-Aquitaine",
+            "registers": "4463041",
+            "abstention": "962499",
+            "blankVote": "53440",
+            "spoiltBallot": "27129",
+            "politicians": [
+                {
+                    "gender": "W",
+                    "lastName": "ARTHAUD",
+                    "firstName": "Nathalie",
+                    "votes": "18494"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "ROUSSEL",
+                    "firstName": "Fabien",
+                    "votes": "96771"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "MACRON",
+                    "firstName": "Emmanuel",
+                    "votes": "945122"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "LASALLE",
+                    "firstName": "Jean",
+                    "votes": "201726"
+                },
+                {
+                    "gender": "W",
+                    "lastName": "LE PEN",
+                    "firstName": "Marine",
+                    "votes": "779699"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "ZEMMOUR",
+                    "firstName": "Éric",
+                    "votes": "210476"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "MÉLENCHON",
+                    "firstName": "Jean-Luc",
+                    "votes": "681218"
+                },
+                {
+                    "gender": "W",
+                    "lastName": "HIDALGO",
+                    "firstName": "Anne",
+                    "votes": "77396"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "JADOT",
+                    "firstName": "Yannick",
+                    "votes": "151714"
+                },
+                {
+                    "gender": "W",
+                    "lastName": "PÉCRESSE",
+                    "firstName": "Valérie",
+                    "votes": "157205"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "POUTOU",
+                    "firstName": "Philippe",
+                    "votes": "32597"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "DUPONT-AIGNAN",
+                    "firstName": "Nicolas",
+                    "votes": "67645"
+                }
+            ]
+        },
+        {
+            "code": "84",
+            "libelle": "Auvergne-Rhône-Alpes",
+            "registers": "5557535",
+            "abstention": "1228490",
+            "blankVote": "70067",
+            "spoiltBallot": "25512",
+            "politicians": [
+                {
+                    "gender": "W",
+                    "lastName": "ARTHAUD",
+                    "firstName": "Nathalie",
+                    "votes": "23136"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "ROUSSEL",
+                    "firstName": "Fabien",
+                    "votes": "96403"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "MACRON",
+                    "firstName": "Emmanuel",
+                    "votes": "1174972"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "LASALLE",
+                    "firstName": "Jean",
+                    "votes": "136414"
+                },
+                {
+                    "gender": "W",
+                    "lastName": "LE PEN",
+                    "firstName": "Marine",
+                    "votes": "943122"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "ZEMMOUR",
+                    "firstName": "Éric",
+                    "votes": "312881"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "MÉLENCHON",
+                    "firstName": "Jean-Luc",
+                    "votes": "897349"
+                },
+                {
+                    "gender": "W",
+                    "lastName": "HIDALGO",
+                    "firstName": "Anne",
+                    "votes": "77566"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "JADOT",
+                    "firstName": "Yannick",
+                    "votes": "224710"
+                },
+                {
+                    "gender": "W",
+                    "lastName": "PÉCRESSE",
+                    "firstName": "Valérie",
+                    "votes": "217881"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "POUTOU",
+                    "firstName": "Philippe",
+                    "votes": "30586"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "DUPONT-AIGNAN",
+                    "firstName": "Nicolas",
+                    "votes": "98446"
+                }
+            ]
+        },
+        {
+            "code": "27",
+            "libelle": "Bourgogne-Franche-Compté",
+            "registers": "1992409",
+            "abstention": "456682",
+            "blankVote": "26392",
+            "spoiltBallot": "11621",
+            "politicians": [
+                {
+                    "gender": "W",
+                    "lastName": "ARTHAUD",
+                    "firstName": "Nathalie",
+                    "votes": "10643"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "ROUSSEL",
+                    "firstName": "Fabien",
+                    "votes": "33932"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "MACRON",
+                    "firstName": "Emmanuel",
+                    "votes": "394119"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "LASALLE",
+                    "firstName": "Jean",
+                    "votes": "49557"
+                },
+                {
+                    "gender": "W",
+                    "lastName": "LE PEN",
+                    "firstName": "Marine",
+                    "votes": "409643"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "ZEMMOUR",
+                    "firstName": "Éric",
+                    "votes": "107057"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "MÉLENCHON",
+                    "firstName": "Jean-Luc",
+                    "votes": "277901"
+                },
+                {
+                    "gender": "W",
+                    "lastName": "HIDALGO",
+                    "firstName": "Anne",
+                    "votes": "26543"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "JADOT",
+                    "firstName": "Yannick",
+                    "votes": "60235"
+                },
+                {
+                    "gender": "W",
+                    "lastName": "PÉCRESSE",
+                    "firstName": "Valérie",
+                    "votes": "76655"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "POUTOU",
+                    "firstName": "Philippe",
+                    "votes": "12738"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "DUPONT-AIGNAN",
+                    "firstName": "Nicolas",
+                    "votes": "38691"
+                }
+            ]
+        },
+        {
+            "code": "53",
+            "libelle": "Bretagne",
+            "registers": "2562061",
+            "abstention": "543414",
+            "blankVote": "31884",
+            "spoiltBallot": "13245",
+            "politicians": [
+                {
+                    "gender": "W",
+                    "lastName": "ARTHAUD",
+                    "firstName": "Nathalie",
+                    "votes": "12965"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "ROUSSEL",
+                    "firstName": "Fabien",
+                    "votes": "51193"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "MACRON",
+                    "firstName": "Emmanuel",
+                    "votes": "647172"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "LASALLE",
+                    "firstName": "Jean",
+                    "votes": "58653"
+                },
+                {
+                    "gender": "W",
+                    "lastName": "LE PEN",
+                    "firstName": "Marine",
+                    "votes": "385393"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "ZEMMOUR",
+                    "firstName": "Éric",
+                    "votes": "96984"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "MÉLENCHON",
+                    "firstName": "Jean-Luc",
+                    "votes": "407527"
+                },
+                {
+                    "gender": "W",
+                    "lastName": "HIDALGO",
+                    "firstName": "Anne",
+                    "votes": "43596"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "JADOT",
+                    "firstName": "Yannick",
+                    "votes": "122198"
+                },
+                {
+                    "gender": "W",
+                    "lastName": "PÉCRESSE",
+                    "firstName": "Valérie",
+                    "votes": "92808"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "POUTOU",
+                    "firstName": "Philippe",
+                    "votes": "19913"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "DUPONT-AIGNAN",
+                    "firstName": "Nicolas",
+                    "votes": "35116"
+                }
+            ]
+        },
+        {
+            "code": "24",
+            "libelle": "Centre-Val de Loire",
+            "registers": "1837328",
+            "abstention": "459528",
+            "blankVote": "23216",
+            "spoiltBallot": "9311",
+            "politicians": [
+                {
+                    "gender": "W",
+                    "lastName": "ARTHAUD",
+                    "firstName": "Nathalie",
+                    "votes": "9256"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "ROUSSEL",
+                    "firstName": "Fabien",
+                    "votes": "33590"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "MACRON",
+                    "firstName": "Emmanuel",
+                    "votes": "383851"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "LASALLE",
+                    "firstName": "Jean",
+                    "votes": "38659"
+                },
+                {
+                    "gender": "W",
+                    "lastName": "LE PEN",
+                    "firstName": "Marine",
+                    "votes": "374845"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "ZEMMOUR",
+                    "firstName": "Éric",
+                    "votes": "88575"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "MÉLENCHON",
+                    "firstName": "Jean-Luc",
+                    "votes": "251250"
+                },
+                {
+                    "gender": "W",
+                    "lastName": "HIDALGO",
+                    "firstName": "Anne",
+                    "votes": "23162"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "JADOT",
+                    "firstName": "Yannick",
+                    "votes": "54401"
+                },
+                {
+                    "gender": "W",
+                    "lastName": "PÉCRESSE",
+                    "firstName": "Valérie",
+                    "votes": "71690"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "POUTOU",
+                    "firstName": "Philippe",
+                    "votes": "11226"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "DUPONT-AIGNAN",
+                    "firstName": "Nicolas",
+                    "votes": "31759"
+                }
+            ]
+        },
+        {
+            "code": "11",
+            "libelle": "Île-de-France",
+            "registers": "739284",
+            "abstention": "1760727",
+            "blankVote": "76616",
+            "spoiltBallot": "27967",
+            "politicians": [
+                {
+                    "gender": "W",
+                    "lastName": "ARTHAUD",
+                    "firstName": "Nathalie",
+                    "votes": "21894"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "ROUSSEL",
+                    "firstName": "Fabien",
+                    "votes": "105137"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "MACRON",
+                    "firstName": "Emmanuel",
+                    "votes": "1655780"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "LASALLE",
+                    "firstName": "Jean",
+                    "votes": "87343"
+                },
+                {
+                    "gender": "W",
+                    "lastName": "LE PEN",
+                    "firstName": "Marine",
+                    "votes": "711462"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "ZEMMOUR",
+                    "firstName": "Éric",
+                    "votes": "409396"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "MÉLENCHON",
+                    "firstName": "Jean-Luc",
+                    "votes": "1658601"
+                },
+                {
+                    "gender": "W",
+                    "lastName": "HIDALGO",
+                    "firstName": "Anne",
+                    "votes": "78522"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "JADOT",
+                    "firstName": "Yannick",
+                    "votes": "296087"
+                },
+                {
+                    "gender": "W",
+                    "lastName": "PÉCRESSE",
+                    "firstName": "Valérie",
+                    "votes": "339371"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "POUTOU",
+                    "firstName": "Philippe",
+                    "votes": "33050"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "DUPONT-AIGNAN",
+                    "firstName": "Nicolas",
+                    "votes": "87331"
+                }
+            ]
+        },
+        {
+            "code": "76",
+            "libelle": "Occitanie",
+            "registers": "4323929",
+            "abstention": "940541",
+            "blankVote": "47891",
+            "spoiltBallot": "24876",
+            "politicians": [
+                {
+                    "gender": "W",
+                    "lastName": "ARTHAUD",
+                    "firstName": "Nathalie",
+                    "votes": "14875"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "ROUSSEL",
+                    "firstName": "Fabien",
+                    "votes": "83452"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "MACRON",
+                    "firstName": "Emmanuel",
+                    "votes": "777444"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "LASALLE",
+                    "firstName": "Jean",
+                    "votes": "184956"
+                },
+                {
+                    "gender": "W",
+                    "lastName": "LE PEN",
+                    "firstName": "Marine",
+                    "votes": "815339"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "ZEMMOUR",
+                    "firstName": "Éric",
+                    "votes": "260127"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "MÉLENCHON",
+                    "firstName": "Jean-Luc",
+                    "votes": "741948"
+                },
+                {
+                    "gender": "W",
+                    "lastName": "HIDALGO",
+                    "firstName": "Anne",
+                    "votes": "77124"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "JADOT",
+                    "firstName": "Yannick",
+                    "votes": "139122"
+                },
+                {
+                    "gender": "W",
+                    "lastName": "PÉCRESSE",
+                    "firstName": "Valérie",
+                    "votes": "129101"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "POUTOU",
+                    "firstName": "Philippe",
+                    "votes": "23891"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "DUPONT-AIGNAN",
+                    "firstName": "Nicolas",
+                    "votes": "63243"
+                }
+            ]
+        },
+        {
+            "code": "32",
+            "libelle": "Hauts-de-France",
+            "registers": "4255350",
+            "abstention": "1146209",
+            "blankVote": "42945",
+            "spoiltBallot": "24270",
+            "politicians": [
+                {
+                    "gender": "W",
+                    "lastName": "ARTHAUD",
+                    "firstName": "Nathalie",
+                    "votes": "20943"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "ROUSSEL",
+                    "firstName": "Fabien",
+                    "votes": "94776"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "MACRON",
+                    "firstName": "Emmanuel",
+                    "votes": "772619"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "LASALLE",
+                    "firstName": "Jean",
+                    "votes": "62487"
+                },
+                {
+                    "gender": "W",
+                    "lastName": "LE PEN",
+                    "firstName": "Marine",
+                    "votes": "1014182"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "ZEMMOUR",
+                    "firstName": "Éric",
+                    "votes": "179416"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "MÉLENCHON",
+                    "firstName": "Jean-Luc",
+                    "votes": "577487"
+                },
+                {
+                    "gender": "W",
+                    "lastName": "HIDALGO",
+                    "firstName": "Anne",
+                    "votes": "40814"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "JADOT",
+                    "firstName": "Yannick",
+                    "votes": "95164"
+                },
+                {
+                    "gender": "W",
+                    "lastName": "PÉCRESSE",
+                    "firstName": "Valérie",
+                    "votes": "107527"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "POUTOU",
+                    "firstName": "Philippe",
+                    "votes": "21125"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "DUPONT-AIGNAN",
+                    "firstName": "Nicolas",
+                    "votes": "55386"
+                }
+            ]
+        },
+        {
+            "code": "28",
+            "libelle": "Normandie",
+            "registers": "2413749",
+            "abstention": "590804",
+            "blankVote": "28947",
+            "spoiltBallot": "10533",
+            "politicians": [
+                {
+                    "gender": "W",
+                    "lastName": "ARTHAUD",
+                    "firstName": "Nathalie",
+                    "votes": "12839"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "ROUSSEL",
+                    "firstName": "Fabien",
+                    "votes": "46358"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "MACRON",
+                    "firstName": "Emmanuel",
+                    "votes": "521769"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "LASALLE",
+                    "firstName": "Jean",
+                    "votes": "45488"
+                },
+                {
+                    "gender": "W",
+                    "lastName": "LE PEN",
+                    "firstName": "Marine",
+                    "votes": "484106"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "ZEMMOUR",
+                    "firstName": "Éric",
+                    "votes": "99446"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "MÉLENCHON",
+                    "firstName": "Jean-Luc",
+                    "votes": "335590"
+                },
+                {
+                    "gender": "W",
+                    "lastName": "HIDALGO",
+                    "firstName": "Anne",
+                    "votes": "30235"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "JADOT",
+                    "firstName": "Yannick",
+                    "votes": "73269"
+                },
+                {
+                    "gender": "W",
+                    "lastName": "PÉCRESSE",
+                    "firstName": "Valérie",
+                    "votes": "79800"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "POUTOU",
+                    "firstName": "Philippe",
+                    "votes": "16005"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "DUPONT-AIGNAN",
+                    "firstName": "Nicolas",
+                    "votes": "38560"
+                }
+            ]
+        },
+        {
+            "code": "52",
+            "libelle": "Pays de la Loire",
+            "registers": "2832949",
+            "abstention": "652018",
+            "blankVote": "38934",
+            "spoiltBallot": "14554",
+            "politicians": [
+                {
+                    "gender": "W",
+                    "lastName": "ARTHAUD",
+                    "firstName": "Nathalie",
+                    "votes": "13853"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "ROUSSEL",
+                    "firstName": "Fabien",
+                    "votes": "45058"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "MACRON",
+                    "firstName": "Emmanuel",
+                    "votes": "707890"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "LASALLE",
+                    "firstName": "Jean",
+                    "votes": "54592"
+                },
+                {
+                    "gender": "W",
+                    "lastName": "LE PEN",
+                    "firstName": "Marine",
+                    "votes": "442025"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "ZEMMOUR",
+                    "firstName": "Éric",
+                    "votes": "114388"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "MÉLENCHON",
+                    "firstName": "Jean-Luc",
+                    "votes": "408969"
+                },
+                {
+                    "gender": "W",
+                    "lastName": "HIDALGO",
+                    "firstName": "Anne",
+                    "votes": "43291"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "JADOT",
+                    "firstName": "Yannick",
+                    "votes": "127935"
+                },
+                {
+                    "gender": "W",
+                    "lastName": "PÉCRESSE",
+                    "firstName": "Valérie",
+                    "votes": "106786"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "POUTOU",
+                    "firstName": "Philippe",
+                    "votes": "18441"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "DUPONT-AIGNAN",
+                    "firstName": "Nicolas",
+                    "votes": "44215"
+                }
+            ]
+        },
+        {
+            "code": "93",
+            "libelle": "Provences-Alpes-Côte d'Azur",
+            "registers": "3663871",
+            "abstention": "959575",
+            "blankVote": "35917",
+            "spoiltBallot": "15471",
+            "politicians": [
+                {
+                    "gender": "W",
+                    "lastName": "ARTHAUD",
+                    "firstName": "Nathalie",
+                    "votes": "9457"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "ROUSSEL",
+                    "firstName": "Fabien",
+                    "votes": "54718"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "MACRON",
+                    "firstName": "Emmanuel",
+                    "votes": "619272"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "LASALLE",
+                    "firstName": "Jean",
+                    "votes": "72830"
+                },
+                {
+                    "gender": "W",
+                    "lastName": "LE PEN",
+                    "firstName": "Marine",
+                    "votes": "732078"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "ZEMMOUR",
+                    "firstName": "Éric",
+                    "votes": "310717"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "MÉLENCHON",
+                    "firstName": "Jean-Luc",
+                    "votes": "524211"
+                },
+                {
+                    "gender": "W",
+                    "lastName": "HIDALGO",
+                    "firstName": "Anne",
+                    "votes": "29501"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "JADOT",
+                    "firstName": "Yannick",
+                    "votes": "107625"
+                },
+                {
+                    "gender": "W",
+                    "lastName": "PÉCRESSE",
+                    "firstName": "Valérie",
+                    "votes": "116094"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "POUTOU",
+                    "firstName": "Philippe",
+                    "votes": "16219"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "DUPONT-AIGNAN",
+                    "firstName": "Nicolas",
+                    "votes": "60186"
+                }
+            ]
+        },
+        {
+            "code": "94",
+            "libelle": "Corse",
+            "registers": "243032",
+            "abstention": "90629",
+            "blankVote": "2593",
+            "spoiltBallot": "2438",
+            "politicians": [
+                {
+                    "gender": "W",
+                    "lastName": "ARTHAUD",
+                    "firstName": "Nathalie",
+                    "votes": "454"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "ROUSSEL",
+                    "firstName": "Fabien",
+                    "votes": "4537"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "MACRON",
+                    "firstName": "Emmanuel",
+                    "votes": "26705"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "LASALLE",
+                    "firstName": "Jean",
+                    "votes": "15330"
+                },
+                {
+                    "gender": "W",
+                    "lastName": "LE PEN",
+                    "firstName": "Marine",
+                    "votes": "42137"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "ZEMMOUR",
+                    "firstName": "Éric",
+                    "votes": "18856"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "MÉLENCHON",
+                    "firstName": "Jean-Luc",
+                    "votes": "19698"
+                },
+                {
+                    "gender": "W",
+                    "lastName": "HIDALGO",
+                    "firstName": "Anne",
+                    "votes": "1583"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "JADOT",
+                    "firstName": "Yannick",
+                    "votes": "4786"
+                },
+                {
+                    "gender": "W",
+                    "lastName": "PÉCRESSE",
+                    "firstName": "Valérie",
+                    "votes": "9327"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "POUTOU",
+                    "firstName": "Philippe",
+                    "votes": "1370"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "DUPONT-AIGNAN",
+                    "firstName": "Nicolas",
+                    "votes": "2589"
+                }
+            ]
+        },
+        {
+            "code": "01",
+            "libelle": "Guadeloupe",
+            "registers": "316023",
+            "abstention": "174592",
+            "blankVote": "2719",
+            "spoiltBallot": "3627",
+            "politicians": [
+                {
+                    "gender": "W",
+                    "lastName": "ARTHAUD",
+                    "firstName": "Nathalie",
+                    "votes": "1084"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "ROUSSEL",
+                    "firstName": "Fabien",
+                    "votes": "668"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "MACRON",
+                    "firstName": "Emmanuel",
+                    "votes": "18137"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "LASALLE",
+                    "firstName": "Jean",
+                    "votes": "1033"
+                },
+                {
+                    "gender": "W",
+                    "lastName": "LE PEN",
+                    "firstName": "Marine",
+                    "votes": "24204"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "ZEMMOUR",
+                    "firstName": "Éric",
+                    "votes": "3098"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "MÉLENCHON",
+                    "firstName": "Jean-Luc",
+                    "votes": "75862"
+                },
+                {
+                    "gender": "W",
+                    "lastName": "HIDALGO",
+                    "firstName": "Anne",
+                    "votes": "2266"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "JADOT",
+                    "firstName": "Yannick",
+                    "votes": "1927"
+                },
+                {
+                    "gender": "W",
+                    "lastName": "PÉCRESSE",
+                    "firstName": "Valérie",
+                    "votes": "3979"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "POUTOU",
+                    "firstName": "Philippe",
+                    "votes": "713"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "DUPONT-AIGNAN",
+                    "firstName": "Nicolas",
+                    "votes": "2114"
+                }
+            ]
+        },
+        {
+            "code": "02",
+            "libelle": "Martinique",
+            "registers": "304594",
+            "abstention": "174588",
+            "blankVote": "4001",
+            "spoiltBallot": "3056",
+            "politicians": [
+                {
+                    "gender": "W",
+                    "lastName": "ARTHAUD",
+                    "firstName": "Nathalie",
+                    "votes": "1447"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "ROUSSEL",
+                    "firstName": "Fabien",
+                    "votes": "747"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "MACRON",
+                    "firstName": "Emmanuel",
+                    "votes": "20043"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "LASALLE",
+                    "firstName": "Jean",
+                    "votes": "1162"
+                },
+                {
+                    "gender": "W",
+                    "lastName": "LE PEN",
+                    "firstName": "Marine",
+                    "votes": "16495"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "ZEMMOUR",
+                    "firstName": "Éric",
+                    "votes": "3153"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "MÉLENCHON",
+                    "firstName": "Jean-Luc",
+                    "votes": "65292"
+                },
+                {
+                    "gender": "W",
+                    "lastName": "HIDALGO",
+                    "firstName": "Anne",
+                    "votes": "3935"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "JADOT",
+                    "firstName": "Yannick",
+                    "votes": "1978"
+                },
+                {
+                    "gender": "W",
+                    "lastName": "PÉCRESSE",
+                    "firstName": "Valérie",
+                    "votes": "4731"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "POUTOU",
+                    "firstName": "Philippe",
+                    "votes": "977"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "DUPONT-AIGNAN",
+                    "firstName": "Nicolas",
+                    "votes": "2989"
+                }
+            ]
+        },
+        {
+            "code": "03",
+            "libelle": "Guyane",
+            "registers": "102993",
+            "abstention": "65754",
+            "blankVote": "825",
+            "spoiltBallot": "553",
+            "politicians": [
+                {
+                    "gender": "W",
+                    "lastName": "ARTHAUD",
+                    "firstName": "Nathalie",
+                    "votes": "287"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "ROUSSEL",
+                    "firstName": "Fabien",
+                    "votes": "246"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "MACRON",
+                    "firstName": "Emmanuel",
+                    "votes": "5101"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "LASALLE",
+                    "firstName": "Jean",
+                    "votes": "516"
+                },
+                {
+                    "gender": "W",
+                    "lastName": "LE PEN",
+                    "firstName": "Marine",
+                    "votes": "6334"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "ZEMMOUR",
+                    "firstName": "Éric",
+                    "votes": "1573"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "MÉLENCHON",
+                    "firstName": "Jean-Luc",
+                    "votes": "18143"
+                },
+                {
+                    "gender": "W",
+                    "lastName": "HIDALGO",
+                    "firstName": "Anne",
+                    "votes": "535"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "JADOT",
+                    "firstName": "Yannick",
+                    "votes": "940"
+                },
+                {
+                    "gender": "W",
+                    "lastName": "PÉCRESSE",
+                    "firstName": "Valérie",
+                    "votes": "997"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "POUTOU",
+                    "firstName": "Philippe",
+                    "votes": "462"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "DUPONT-AIGNAN",
+                    "firstName": "Nicolas",
+                    "votes": "717"
+                }
+            ]
+        },
+        {
+            "code": "04",
+            "libelle": "La Réunion",
+            "registers": "675539",
+            "abstention": "313159",
+            "blankVote": "7361",
+            "spoiltBallot": "8253",
+            "politicians": [
+                {
+                    "gender": "W",
+                    "lastName": "ARTHAUD",
+                    "firstName": "Nathalie",
+                    "votes": "3538"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "ROUSSEL",
+                    "firstName": "Fabien",
+                    "votes": "3074"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "MACRON",
+                    "firstName": "Emmanuel",
+                    "votes": "62532"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "LASALLE",
+                    "firstName": "Jean",
+                    "votes": "4844"
+                },
+                {
+                    "gender": "W",
+                    "lastName": "LE PEN",
+                    "firstName": "Marine",
+                    "votes": "85770"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "ZEMMOUR",
+                    "firstName": "Éric",
+                    "votes": "13070"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "MÉLENCHON",
+                    "firstName": "Jean-Luc",
+                    "votes": "139604"
+                },
+                {
+                    "gender": "W",
+                    "lastName": "HIDALGO",
+                    "firstName": "Anne",
+                    "votes": "5549"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "JADOT",
+                    "firstName": "Yannick",
+                    "votes": "7994"
+                },
+                {
+                    "gender": "W",
+                    "lastName": "PÉCRESSE",
+                    "firstName": "Valérie",
+                    "votes": "9738"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "POUTOU",
+                    "firstName": "Philippe",
+                    "votes": "2705"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "DUPONT-AIGNAN",
+                    "firstName": "Nicolas",
+                    "votes": "8338"
+                }
+            ]
+        },
+        {
+            "code": "06",
+            "libelle": "Mayotte",
+            "registers": "92187",
+            "abstention": "55024",
+            "blankVote": "922",
+            "spoiltBallot": "1191",
+            "politicians": [
+                {
+                    "gender": "W",
+                    "lastName": "ARTHAUD",
+                    "firstName": "Nathalie",
+                    "votes": "430"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "ROUSSEL",
+                    "firstName": "Fabien",
+                    "votes": "206"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "MACRON",
+                    "firstName": "Emmanuel",
+                    "votes": "5936"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "LASALLE",
+                    "firstName": "Jean",
+                    "votes": "359"
+                },
+                {
+                    "gender": "W",
+                    "lastName": "LE PEN",
+                    "firstName": "Marine",
+                    "votes": "14958"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "ZEMMOUR",
+                    "firstName": "Éric",
+                    "votes": "482"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "MÉLENCHON",
+                    "firstName": "Jean-Luc",
+                    "votes": "8398"
+                },
+                {
+                    "gender": "W",
+                    "lastName": "HIDALGO",
+                    "firstName": "Anne",
+                    "votes": "318"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "JADOT",
+                    "firstName": "Yannick",
+                    "votes": "295"
+                },
+                {
+                    "gender": "W",
+                    "lastName": "PÉCRESSE",
+                    "firstName": "Valérie",
+                    "votes": "2810"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "POUTOU",
+                    "firstName": "Philippe",
+                    "votes": "328"
+                },
+                {
+                    "gender": "M",
+                    "lastName": "DUPONT-AIGNAN",
+                    "firstName": "Nicolas",
+                    "votes": "530"
+                }
+            ]
+        }
+    ]
+}
